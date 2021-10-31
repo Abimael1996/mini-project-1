@@ -1,0 +1,103 @@
+* {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #3A2159;
+}
+
+header {
+    background-color: #6A3247;
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    border-bottom: 10px solid #53427f;
+    position: fixed;
+    top: 0;
+}
+
+.ul-nav {
+  text-align: right;
+  margin-top: 0;
+  padding-right: 10px;
+}
+
+.li-nav {
+    display: inline;
+    margin: 5px;
+}
+
+a {
+    color: black;
+    font-weight: bolder;
+    font-size:larger;
+    text-decoration: none;
+}
+
+main {
+  padding-top: 60px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: black;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}
+
+#contact-info {
+    padding-bottom: 20px;
+    background-color: #4A142D;
+    border-top: 5px solid black;
+    margin-top: 40px;
+}
+
+form {
+    margin: 0 auto;
+    border: 5px solid black;
+    width: 500px;
+    position: relative;
+    padding-bottom: 25px;
+    border-radius: 20px;
+}
+
+.ul-contact {
+    list-style-type: none;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.padding {
+    padding-left: 2px;
+}
+
+input {
+    width: 300px;
+}
+
+.button {
+    position: absolute;
+    left: 200px;
+    bottom: 10px;
+    padding: 7px 30px;
+    background-color: #53427f;
+    font-weight: bolder;
+}
+
+.footer {
+    height: 77px;
+    background-color: #23091E;
+}
+
+p {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.205);
+    margin: 0;
+    position: relative;
+    top: 25px;
+    font-size: 20pt;
+}
