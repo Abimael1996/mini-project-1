@@ -115,4 +115,10 @@ p {
      h1 {
          color: white
      }
+     footer {
+         position: static;
+     }
+     #contact-info {
+         position: static;
+     }
 }
