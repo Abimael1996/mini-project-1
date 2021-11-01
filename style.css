@@ -114,11 +114,9 @@ p {
      /* mobile */
      h1 {
          color: white
-     }
-     footer {
-         position: static;
-     }
-     #contact-info {
-         position: static;
-     }
+     }    
 }
+
+@media screen and (max-height: 700px) {
+     /* mobile */ 
+     }
