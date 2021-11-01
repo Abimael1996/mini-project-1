@@ -110,8 +110,7 @@ p {
     font-size: 20pt;
 }
 
-@media (max-height: 1920px) {
+@media screen and (max-width: 480px) {
+     /* mobile */
 }
 
-@media (max-width: 1080px) {
-}
