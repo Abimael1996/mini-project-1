@@ -114,9 +114,8 @@ p {
      /* mobile */
      h1 {
          color: white
-     }    
+    } 
+    #contact-info {
+        width: 100%;
+    }
 }
-
-@media screen and (max-height: 700px) {
-     /* mobile */ 
-     }
