@@ -110,5 +110,5 @@ p {
     font-size: 20pt;
 }
 
-@media (min-height: 450px) {
+@media (max-height: 450px) {
 }
