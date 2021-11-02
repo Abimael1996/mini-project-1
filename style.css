@@ -112,10 +112,7 @@ p {
 
 @media screen and (max-width: 480px) {
      /* mobile */
-     h1 {
-         color: blue;
-    } 
     body {
-        width: 150%;
+        width: 480px;
     }
 }
