@@ -115,4 +115,7 @@ p {
     h1 {
         color: white;
     }
+    body {
+        width: 768px;
+    }
 }
